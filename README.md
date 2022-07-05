@@ -53,7 +53,7 @@ es la clase “Producto.java” con los siguientes atributos:
 • private int codigoFabricante;
 
 Agregar a cada clase el/los constructores necesarios y los métodos públicos getters
-y setters para poder acceder a los atributos privados de la clase. La llave foránea se
+y setters para poder acceder a los atributos privados de la clase. La llave foranea se
 pondrá como dato nada más, no como objeto.
 
 
